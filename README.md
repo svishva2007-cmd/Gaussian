@@ -61,7 +61,7 @@ for i in range(n):
 ## Output:
 <img width="1315" height="767" alt="image" src="https://github.com/user-attachments/assets/5378cb0c-8731-40bb-b6e6-66ff28d54001" />
 
-<img width="1285" height="793" alt="image" src="https://github.com/user-attachments/assets/7f8dc52d-919b-4d39-8d81-be4a60e165bd" />
+<img width="878" height="459" alt="{974F6A58-C859-4285-B088-921B98BD850C}" src="https://github.com/user-attachments/assets/6af5310d-36cb-4abd-9704-b99362fa9ac8" />
 
 
 ## Result:
